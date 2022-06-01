@@ -1,4 +1,4 @@
-﻿ID,IssueDateTime,DeclarationOfficeID,ProcessType,TransactionNature,Type,PaymentType,BorderTransportMeans,DeclarerID,ImporterID,SellerID,ExpressID,ClassificationID,ExportationCountry,OriginCountry,TaxRate,DisplayIndicator,DutyRegime,TotalGrossMassMeasure(KG),AdValoremTaxBaseAmount(Won),Fake
+﻿ID,IssueDateTime,DeclarationOfficeID,ProcessType,TransactionNature,Type,PaymentType,BorderTransportMeans,DeclarerID,ImporterID,SellerID,ExpressID,ClassificationID,ExportationCountry,OriginCountry,TaxRate,DutyRegime,DisplayIndicator,TotalGrossMassMeasure(KG),AdValoremTaxBaseAmount(Won),Fake
 72084586,2020-01-01,40,B,55,21,11,40,9GW1AOD,BMWKZKI,34K2O8F,,9619001090,JP,JP,0.0,C,B,5742.6,2274643.8600000003,0
 40435069,2020-01-01,40,B,11,21,11,40,7GHJ33J,VFJGVDY,U77VGNW,,9506910000,CN,CN,8.0,A,Y,21.0,285.6,0
 55727128,2020-01-01,21,B,15,11,11,10,CSYO98C,M9O8BKE,KSZ7RB6,MWIDNS,1201903000,CN,CN,5.0,W1,E,38000.0,16302000.0,0
